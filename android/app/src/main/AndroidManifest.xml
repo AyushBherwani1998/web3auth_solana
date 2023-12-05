@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="web3_auth_solana"
         android:name="${applicationName}"
@@ -20,6 +21,7 @@
               android:resource="@style/NormalTheme"
               />
             <intent-filter>
+            <data android:scheme="demo" android:host="com.example.web3_auth_solana" android:path="/auth" />
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
