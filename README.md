@@ -1,4 +1,4 @@
-# web3_auth_solana
+<h2> Web3Auth with Solana </h2>
 
 This guide will talk about using Web3Auth SDK in Flutter, and integrating Solana chain to fetch user account, balance, sign transaction, and broadcast a transaction. For this guide we'll be using Web3Auth social login with Custom Authentication. For custom authenticaton we'll be using Auth0 Single Page Applications (SPA) flow. 
 
