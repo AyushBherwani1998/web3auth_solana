@@ -439,9 +439,10 @@ To run the example code, clone the repo, check it out and try running it locally
 
 Here's a demo of the sample. 
 
-<video width="240" height="420" controls>
-  <source src="./assets/demo.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/AyushBherwani1998/web3auth_solana/assets/34301187/b0568531-f891-433b-bc51-26438cf0bb58
+
 
 
 
