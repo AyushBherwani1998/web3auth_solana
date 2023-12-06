@@ -71,6 +71,7 @@ Once you have setup your tenant and new application, we are going to enable twit
    - Paste the Cliend ID and Auth0 Domain from the Auth0 SPA you created in the above steps.This will be used to validate the JWT token issued by Auth0.
    - Click on the Create button to create your verifier. It may take up to 10-20 minutes to deploy the verifier on Sapphire Devnet.
 
+<img src="./assets/custom_auth.png">
 
 <h3> Using Web3Auth SDK </h3>
 To use the Web3Auth SDK, you need to add the dependency of the respective platform SDK of Web3Auth to your project. For this guide, we will be using the [Web3Auth Flutter SDK](https://pub.dev/packages/web3auth_flutter).
