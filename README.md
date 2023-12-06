@@ -74,6 +74,7 @@ Once you have setup your tenant and new application, we are going to enable twit
 <img src="./assets/custom_auth.png">
 
 <h3> Using Web3Auth SDK </h3>
+
 To use the Web3Auth SDK, you need to add the dependency of the respective platform SDK of Web3Auth to your project. For this guide, we will be using the [Web3Auth Flutter SDK](https://pub.dev/packages/web3auth_flutter).
 
 <h4> Installation </h4>
